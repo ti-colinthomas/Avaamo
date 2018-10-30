@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Data directories
+IFL/insights/
+IFL/stats/
+
 #OSX
 .DS_Store
 
